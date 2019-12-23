@@ -31,4 +31,10 @@ Software data vault for maintaining records of barred people at a bar venue. Sup
 Python wrapper for fetching the current frequency of the AC in the Swedish power grid. Acquires snapshots of measurements using data from Svenska Kraftnät. 
 <br>[Project Repository](https://github.com/argillander/GridFrequency)
 <br>
-<b>Tags: Python</br>
+<b>Tags: Python</b>
+
+## pdftool
+Python CLI tool for merging pdf documents. 
+<br>[Project Repository](https://github.com/argillander/pdftool)
+<br>
+<b>Tags: Python, pypdf2</b>
