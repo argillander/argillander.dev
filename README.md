@@ -80,17 +80,18 @@ Below is a selection of proof-of-concepts or tools that I have written. These ca
 
 ### GridFrequency
 Python wrapper for fetching the current frequency of the AC in the Swedish power grid. Acquires snapshots of measurements using data from Svenska Kraftnät. 
-<br>[Project Repository](https://github.com/argillander/GridFrequency)
 <br>
 <b>Tags: Python</b>
+<br>[Project Repository](https://github.com/argillander/GridFrequency)
 
 <br>
 
 ### pdftool
 Python CLI tool for merging pdf documents. 
-<br>[Project Repository](https://github.com/argillander/pdftool)
 <br>
 <b>Tags: Python, pypdf2</b>
+<br>[Project Repository](https://github.com/argillander/pdftool)
+<br>
 <br>
 <br>
 
