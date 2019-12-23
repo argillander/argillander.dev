@@ -42,10 +42,10 @@ Vw==<br>
 </p>
 </details>
 <br>
-<br>
 Please enjoy!
 <br>
 <br>
+<hr>
 
 ## JokkInvent
 Lightweight inventory management software for a bar venue that makes monthly inventory keeping simple. Allows you to create items, update inventory, add required inventory levels and generate reports. Automatic generation of Excel report.
