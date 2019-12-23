@@ -1,13 +1,15 @@
 # Welcome to ```argillander.dev```
 Here is a selection of projects that I have done throughout the years.
 
+<br>
+
 ## JokkInvent
 Lightweight inventory management software for a bar venue that makes monthly inventory keeping simple. Allows you to create items, update inventory, add required inventory levels and generate reports. Automatic generation of Excel report.
 <br>
 <b>Tags: C#, dotNet, Excel-integration </b>
 <br>[Project Repository](https://github.com/argillander/JokkInvent)
 
-
+<br>
 
 ## splittakostnade<span>n.s</span>e
 A web service for expense sharing and calculating how to split payments equally among a group of people. 
