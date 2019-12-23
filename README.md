@@ -1,4 +1,4 @@
-# Welcome to ```argillander.dev```!
+# Welcome to argillander.dev!
 Here is a selection of projects that I have done throughout the years. My work below mainly solves annoying problems in my everyday life for me, but somebody might find them useful!
 <br>
 <br>
