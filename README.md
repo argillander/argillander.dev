@@ -1,5 +1,11 @@
 # Welcome to ```argillander.dev```
-Here is a selection of projects that I have done throughout the years.
+Here is a selection of projects that I have done throughout the years. My work below mainly solves annoying problems in my everyday life for me, but somebody might find them useful!
+<br>
+<br>
+Also, please see [my website](https://argillander.se) for resumé and contact details. If you would like to contribute to, or have issues with any of the projects below - feel free to drop me an email or open a pull request.  
+<br>
+<br>
+Please enjoy!
 
 <br>
 
