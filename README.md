@@ -13,8 +13,8 @@ Lightweight inventory management software for a bar venue that makes monthly inv
 A web service for expense sharing and calculating how to split payments equally among a group of people. 
 <br>
 <b>Tags: HTML, JavaScript, Bootstrap </b>
+<br>[Go to website](https://argillander.se/splitt/index.html)
 <br>[Project Repository](https://github.com/argillander/splittakostnaden.se)
-
 
 
 
