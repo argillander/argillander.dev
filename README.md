@@ -35,7 +35,7 @@ Software data vault for maintaining records of barred people at a bar venue. Sup
 
 <br>
 
-## Micro Projects
+# Micro Projects
 Below is a selection of proof-of-concepts or tools that I have written. These can oftentimes be used both as libraries or as independent programs. 
 <br>
 <br>
