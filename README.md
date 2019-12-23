@@ -29,6 +29,9 @@ Software data vault for maintaining records of barred people at a bar venue. Sup
 
 ## Micro Projects
 Below is a selection of proof-of-concepts or tools that I have written. These can oftentimes be used both as libraries or as independent programs. 
+<br>
+<br>
+
 ### GridFrequency
 Python wrapper for fetching the current frequency of the AC in the Swedish power grid. Acquires snapshots of measurements using data from Svenska Kraftnät. 
 <br>[Project Repository](https://github.com/argillander/GridFrequency)
@@ -36,7 +39,6 @@ Python wrapper for fetching the current frequency of the AC in the Swedish power
 <b>Tags: Python</b>
 
 <br>
-
 
 ### pdftool
 Python CLI tool for merging pdf documents. 
