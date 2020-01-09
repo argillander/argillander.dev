@@ -9,6 +9,11 @@ title: Joakim Argillander Projects Page
 locale: sv_SE
 logo: # filename of a logo image that has been placed into your images directory
 
+
+# Google Analytics
+google_analytics: UA-48162518-3
+
+
 owner:
   name: Joakim Argillander
   email: joakim@argillander.se
