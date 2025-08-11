@@ -47,6 +47,14 @@ Please enjoy!
 <br>
 <hr>
 <br>
+
+## Quantum Technology Toolbox - App
+A lab companion for every experimentalist quantum researcher. 
+<br>
+[Privacy Policy](qtt-app.md)
+
+<br>
+
 ## JokkInvent
 Lightweight inventory management software for a bar venue that makes monthly inventory keeping simple. Allows you to create items, update inventory, add required inventory levels and generate reports. Automatic generation of Excel report.
 <br>
@@ -55,10 +63,6 @@ Lightweight inventory management software for a bar venue that makes monthly inv
 
 <br>
 
-## Quantum Technology Toolbox - App
-A lab companion for every experimentalist quantum researcher. 
-<br>
-[Privacy Policy](qtt-app.md)
 
 ## splittakostnade<span>n.s</span>e
 A web service for expense sharing and calculating how to split payments equally among a group of people. 
